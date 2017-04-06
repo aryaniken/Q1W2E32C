@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<baranghardware xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="brnghd.xsd">
+	
+<barang>
+
+<kode>AY-4565-SW</kode>
+
+<deskripsi>APP Windows 10</deskripsi>
+
+<harga>5000.000</harga>
+
+</barang>
+
+
+<barang>
+
+<kode>TU-1934-JG</kode>
+
+<deskripsi>Windows 8 full</deskripsi>
+
+<harga>5000</harga>
+
+</barang>
+
+
+<barang>
+
+<kode>AG-7899-GG</kode>
+
+<deskripsi>Ms Excel full crack</deskripsi>
+
+<harga>2200.000</harga>
+
+</barang>
+
+</baranghardware>
